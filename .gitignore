@@ -1,5 +1,13 @@
+Clara/.classpath
+Clara/.project
+*.jar
+Clara/.settings/
+Clara/bin/
+K-Means/.classpath
+K-Means/.project
+K-Means/.settings/
+K-Means/bin/
 .classpath
 .project
-*.jar
 .settings/
-bin/
+
